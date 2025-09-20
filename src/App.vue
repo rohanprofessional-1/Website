@@ -52,7 +52,7 @@ export default {
             'AI-powered image matching via OpenAI CLIP embeddings and FAISS.',
             'FastAPI backend with MySQL and Docker; secure auth with bcrypt + JWT.'
           ],
-          links: { primary: '#' },
+          links: { primary: 'https://github.com/vedantlbhatt/TrackMy' },
           note: 'In development'
         },
         {
